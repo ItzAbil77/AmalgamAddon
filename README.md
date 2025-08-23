@@ -8,6 +8,6 @@ This add-on is compatible with 1.21.93 in worlds. This add-on has yet to be test
 
 Open the .mcaddon and .mcpack files to install them. Make sure to place the add-on resource pack over the standalone resource pack when applying them to a world. Applying these to an existing world is not recommended. This project has no dependencies.
 
-Report bugs or request features in the official discord: [https://discord.gg/GqkK5bWMwD](url)
+Report bugs or request features in the official discord: [https://discord.gg/GqkK5bWMwD](https://discord.gg/GqkK5bWMwD)
 
-For more information about this project, see this YouTube channel: [https://youtube.com/@ItzAbil77?sub_confirmation=1](url)
+For more information about this project, see this YouTube channel: [https://youtube.com/@ItzAbil77?sub_confirmation=1](https://youtube.com/@ItzAbil77?sub_confirmation=1)
